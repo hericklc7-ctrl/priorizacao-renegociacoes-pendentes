@@ -1,0 +1,18 @@
+# Dados: nunca versionar (o gerador recria os fictícios; dados reais jamais entram aqui)
+data/*
+!data/.gitkeep
+saida/
+*.parquet
+*.csv
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# Sistema
+.DS_Store
+Thumbs.db
