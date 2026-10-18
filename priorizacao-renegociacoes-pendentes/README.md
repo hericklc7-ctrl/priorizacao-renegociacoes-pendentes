@@ -114,6 +114,3 @@ Dados de clientes e informações internas de empresas não pertencem a um repos
 
 ## Autor
 
-**[Seu Nome]** · [LinkedIn](https://www.linkedin.com/in/seu-perfil) · [GitHub](https://github.com/seu-usuario)
-
-Licença [MIT](LICENSE).
