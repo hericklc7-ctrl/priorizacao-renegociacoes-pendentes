@@ -112,5 +112,4 @@ Dados de clientes e informações internas de empresas não pertencem a um repos
 - **Critério de prioridade.** Hoje é só o saldo. Combinar com score de pagamento ou histórico de promessas tende a melhorar a ordem.
 - **Automação.** Transformar o notebook em script agendado, entregando a lista todo dia.
 
-## Autor
 
